@@ -1,0 +1,1172 @@
+.frameDiv1 {
+  position: absolute;
+  top: 578px;
+  left: 780px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: -5px;
+  box-sizing: border-box;
+  height: 1037px;
+}
+.rectangleDiv {
+  left: -5px;
+  border: 2px solid var(--color-gray-200);
+  width: 255px;
+}
+.rectangleDiv1 {
+  left: 1061px;
+  border: 2px solid #dfdfdf;
+  width: 387px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  left: 0;
+  height: 169px;
+}
+.rectangleDiv2,
+.rectangleDiv3,
+.rectangleDiv4 {
+  top: 0;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 146px;
+}
+.rectangleDiv3 {
+  position: absolute;
+  left: 182px;
+  height: 169px;
+}
+.rectangleDiv4 {
+  left: 365px;
+}
+.groupDiv,
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  height: 169px;
+}
+.rectangleDiv5 {
+  top: 0;
+  left: 548px;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 146px;
+}
+.groupDiv {
+  top: 165px;
+  left: 308px;
+  width: 694px;
+}
+.rectangleDiv10,
+.rectangleDiv11,
+.rectangleDiv6 {
+  position: absolute;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.rectangleDiv6 {
+  top: 98px;
+  left: 286px;
+}
+.rectangleDiv6,
+.rectangleDiv7 {
+  width: 738px;
+  height: 265px;
+}
+.rectangleDiv7,
+.rectangleDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.rectangleDiv7 {
+  top: 0;
+  left: 0;
+}
+.rectangleDiv10,
+.rectangleDiv11,
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 67px;
+  width: 146px;
+  height: 169px;
+}
+.rectangleDiv8 {
+  left: 22px;
+}
+.rectangleDiv9 {
+  left: 204px;
+}
+.rectangleDiv10 {
+  left: 387px;
+}
+.rectangleDiv11 {
+  left: 570px;
+}
+.groupDiv1,
+.groupDiv2 {
+  position: absolute;
+  top: 397px;
+  left: 286px;
+  width: 738px;
+  height: 265px;
+}
+.groupDiv2 {
+  top: 696px;
+}
+.frameIcon,
+.musikalyB {
+  position: absolute;
+  top: 0;
+}
+.frameIcon {
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.musikalyB {
+  left: 31px;
+  display: inline-block;
+}
+.groupDiv3 {
+  position: absolute;
+  top: 44px;
+  left: 46px;
+  width: 130px;
+  height: 24px;
+  font-size: 20px;
+}
+.musicB,
+.yourTop20 {
+  position: absolute;
+  top: 48px;
+  left: 286px;
+  display: inline-block;
+}
+.yourTop20 {
+  top: 121px;
+  left: 308px;
+}
+.recentlyPlayedB {
+  left: 308px;
+}
+.recentlyPlayedB,
+.seeAllB,
+.seeAllB1,
+.seeAllB2,
+.songsYouMightLike {
+  position: absolute;
+  display: inline-block;
+}
+.songsYouMightLike {
+  top: 419px;
+  left: 308px;
+}
+.recentlyPlayedB {
+  top: 718px;
+}
+.seeAllB {
+  top: 121px;
+}
+.seeAllB,
+.seeAllB1,
+.seeAllB2 {
+  left: 954px;
+  color: var(--color-gray-300);
+}
+.seeAllB1 {
+  top: 419px;
+}
+.seeAllB2 {
+  top: 718px;
+}
+.liveB {
+  position: absolute;
+  top: 48px;
+  display: inline-block;
+}
+.notificationsB {
+  left: 1116px;
+}
+.notificationsB,
+.podcastB,
+.radioB {
+  position: absolute;
+  top: 48px;
+  display: inline-block;
+}
+.liveB {
+  color: var(--color-gray-300);
+}
+.podcastB {
+  left: 366px;
+}
+.podcastB,
+.radioB {
+  color: var(--color-gray-300);
+}
+.liveB {
+  left: 463px;
+}
+.radioB {
+  left: 530px;
+}
+.groupIcon {
+  position: absolute;
+  top: 55px;
+  left: 992px;
+  width: 20px;
+  height: 5px;
+}
+.groupIcon1 {
+  top: 55px;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3 {
+  position: absolute;
+  width: 20px;
+  height: 5px;
+}
+.groupIcon1,
+.groupIcon2 {
+  left: 1365px;
+}
+.groupIcon2 {
+  top: 275px;
+}
+.groupIcon3 {
+  top: 55px;
+  left: 1724px;
+}
+.mENUDiv {
+  position: absolute;
+  top: 112px;
+  left: 46px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.iconlyBoldSearch {
+  position: absolute;
+  height: 96.71%;
+  width: 20.49%;
+  top: 3.29%;
+  right: 79.51%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv4,
+.iconlyBoldHome {
+  position: absolute;
+  top: 198px;
+  left: 46px;
+  width: 81px;
+  height: 17.16px;
+}
+.iconlyBoldHome {
+  height: 97.64%;
+  width: 20.75%;
+  top: 0;
+  right: 79.25%;
+  bottom: 2.36%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv5 {
+  position: absolute;
+  top: 153px;
+  left: 46px;
+  width: 76px;
+  height: 17px;
+  color: var(--color-red);
+}
+.rectangleDiv13 {
+  position: absolute;
+  top: 147px;
+  left: 244px;
+  border-radius: 36px;
+  background-color: var(--color-red);
+  width: 5px;
+  height: 29px;
+}
+.artistsB {
+  position: absolute;
+  top: 0;
+  left: 30.3px;
+  display: inline-block;
+}
+.iconlyBoldProfile {
+  position: absolute;
+  height: 88.01%;
+  width: 16.74%;
+  top: 11.99%;
+  right: 83.26%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv6 {
+  position: absolute;
+  top: 321px;
+  left: 46px;
+  width: 79.3px;
+  height: 18.86px;
+}
+.iconlyBoldBookmark {
+  position: absolute;
+  height: 90.73%;
+  width: 15.21%;
+  top: 9.27%;
+  right: 84.79%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv7 {
+  position: absolute;
+  top: 279px;
+  left: 46px;
+  width: 87.3px;
+  height: 18.29px;
+}
+.iconlyBoldDiscovery {
+  position: absolute;
+  height: 93.62%;
+  width: 17.47%;
+  top: 6.38%;
+  right: 82.53%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv8,
+.lIBRARYDiv {
+  position: absolute;
+  left: 46px;
+}
+.groupDiv8 {
+  top: 238px;
+  width: 95px;
+  height: 17.73px;
+}
+.lIBRARYDiv {
+  top: 384px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.iconlyBoldActivity {
+  position: absolute;
+  height: 97.65%;
+  width: 19.88%;
+  top: 0;
+  right: 80.12%;
+  bottom: 2.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv9,
+.iconlyBoldHeart {
+  position: absolute;
+  top: 430px;
+  left: 46px;
+  width: 83px;
+  height: 17px;
+}
+.iconlyBoldHeart {
+  height: 94.32%;
+  width: 16.27%;
+  top: 5.68%;
+  right: 83.73%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv10 {
+  position: absolute;
+  top: 470px;
+  left: 46px;
+  width: 98px;
+  height: 17.6px;
+}
+.localB {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  display: inline-block;
+}
+.iconlyBoldPaperNegative {
+  position: absolute;
+  height: 94.32%;
+  width: 19.25%;
+  top: 5.68%;
+  right: 80.75%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv11,
+.pLAYLISTDiv {
+  position: absolute;
+  left: 46px;
+}
+.groupDiv11 {
+  top: 510px;
+  width: 69px;
+  height: 17.6px;
+}
+.pLAYLISTDiv {
+  top: 572px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.iconlyBoldPaperPlus {
+  position: absolute;
+  height: 97.65%;
+  width: 12.33%;
+  top: 0;
+  right: 87.67%;
+  bottom: 2.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv12,
+.iconlyBoldPaper {
+  position: absolute;
+  top: 618px;
+  left: 46px;
+  width: 114px;
+  height: 17px;
+}
+.iconlyBoldPaper {
+  height: 94.32%;
+  width: 14.65%;
+  top: 5.68%;
+  right: 85.35%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv13 {
+  position: absolute;
+  top: 658px;
+  left: 46px;
+  width: 96px;
+  height: 17.6px;
+}
+.iconlyBoldPaper1 {
+  position: absolute;
+  height: 97.65%;
+  width: 18.5%;
+  top: 0;
+  right: 81.5%;
+  bottom: 2.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gENERALDiv,
+.groupDiv14 {
+  position: absolute;
+  left: 46px;
+}
+.groupDiv14 {
+  top: 699px;
+  width: 76px;
+  height: 17px;
+}
+.gENERALDiv {
+  top: 760px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.iconlyBoldSetting {
+  position: absolute;
+  height: 94.32%;
+  width: 16.12%;
+  top: 5.68%;
+  right: 83.88%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv15 {
+  position: absolute;
+  top: 806px;
+  left: 46px;
+  width: 91px;
+  height: 17.6px;
+}
+.iconlyBoldLogout {
+  position: absolute;
+  height: 94.32%;
+  width: 18.03%;
+  top: 5.68%;
+  right: 81.97%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv16 {
+  position: absolute;
+  top: 847px;
+  left: 46px;
+  width: 89px;
+  height: 17.6px;
+}
+.celineDiv,
+.endureB {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.endureB {
+  top: 97px;
+}
+.celineDiv {
+  top: 119px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-gray-400);
+}
+.rectangleIcon {
+  border-radius: var(--br-sm);
+  object-fit: cover;
+}
+.frameIcon1 {
+  position: absolute;
+}
+.groupDiv18,
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 113px;
+  height: 88px;
+}
+.frameIcon1 {
+  top: 54px;
+  left: 77px;
+  border-radius: 25px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.groupDiv17 {
+  position: absolute;
+  top: 181px;
+  left: 325px;
+  width: 113px;
+  height: 132px;
+}
+.bootyBounce {
+  top: 580px;
+  display: inline-block;
+}
+.bootyBounce,
+.groupDiv19,
+.remaDiv {
+  position: absolute;
+  left: 325px;
+}
+.remaDiv {
+  top: 602px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-gray-400);
+  display: inline-block;
+}
+.groupDiv19 {
+  top: 483px;
+  width: 113px;
+  height: 88px;
+}
+.frameIcon2,
+.frameIcon3 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.frameIcon2 {
+  top: 537px;
+  left: 402px;
+  border-radius: 23px;
+}
+.frameIcon3 {
+  top: 54px;
+  left: 77px;
+  border-radius: var(--br-lg);
+}
+.groupDiv20 {
+  left: 507px;
+}
+.groupDiv20,
+.groupDiv22,
+.groupDiv24 {
+  position: absolute;
+  top: 483px;
+  width: 113px;
+  height: 132px;
+}
+.groupDiv22 {
+  left: 689px;
+}
+.groupDiv24 {
+  left: 872px;
+}
+.b {
+  top: 278px;
+  display: inline-block;
+}
+.b,
+.burnaBoyDiv,
+.groupDiv26 {
+  position: absolute;
+  left: 507px;
+}
+.burnaBoyDiv {
+  top: 300px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-gray-400);
+  display: inline-block;
+}
+.groupDiv26 {
+  top: 181px;
+  width: 113px;
+  height: 88px;
+}
+.frameIcon6,
+.frameIcon7 {
+  position: absolute;
+  top: 235px;
+  left: 584px;
+  border-radius: 28px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.frameIcon7 {
+  top: 54px;
+  left: 77px;
+  border-radius: 34px;
+}
+.groupDiv27,
+.groupDiv29 {
+  position: absolute;
+  top: 181px;
+  left: 689px;
+  width: 113px;
+  height: 132px;
+}
+.groupDiv29 {
+  left: 872px;
+}
+.remaB {
+  position: absolute;
+  top: 506px;
+  left: 1122px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.groupDiv31,
+.rectangleIcon8 {
+  position: absolute;
+  width: 71px;
+  height: 66.33px;
+}
+.rectangleIcon8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  object-fit: cover;
+}
+.groupDiv31 {
+  top: 429px;
+  left: 1117px;
+}
+.fireboy {
+  position: absolute;
+  top: 506px;
+  left: 1223px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.groupDiv32 {
+  position: absolute;
+  top: 429px;
+  left: 1216px;
+  width: 71px;
+  height: 66.33px;
+}
+.joeboy {
+  position: absolute;
+  top: 506px;
+  left: 1319px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.groupDiv33 {
+  position: absolute;
+  top: 429px;
+  left: 1314px;
+  width: 71px;
+  height: 66.33px;
+}
+.saintJhnB {
+  position: absolute;
+  top: 387px;
+  left: 1122px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.topArtistsB {
+  top: 267px;
+  left: 1117px;
+  display: inline-block;
+}
+.b1,
+.groupDiv34,
+.topArtistsB {
+  position: absolute;
+}
+.groupDiv34 {
+  top: 310px;
+  left: 1117px;
+  width: 71px;
+  height: 66.33px;
+}
+.b1 {
+  top: 10px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+}
+.groupDiv35,
+.groupDiv36,
+.rectangleIcon12 {
+  position: absolute;
+  height: 42.33px;
+}
+.groupDiv36,
+.rectangleIcon12 {
+  top: 0;
+  width: 45.31px;
+}
+.rectangleIcon12 {
+  left: 0;
+  border-radius: var(--br-sm);
+  object-fit: cover;
+}
+.groupDiv36 {
+  left: 36px;
+}
+.groupDiv35 {
+  top: 757px;
+  left: 308px;
+  width: 128px;
+}
+.onyekaB {
+  position: absolute;
+  top: 3px;
+  left: 102px;
+  display: inline-block;
+}
+.groupDiv37 {
+  position: absolute;
+  top: 824px;
+  left: 308px;
+  width: 161px;
+  height: 42.33px;
+}
+.teniDiv {
+  position: absolute;
+  top: 24px;
+  left: 102px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-gray-400);
+  display: inline-block;
+}
+.groupDiv39 {
+  position: absolute;
+  top: 891px;
+  left: 308px;
+  width: 164px;
+  height: 42.33px;
+}
+.groupDiv41,
+.rectangleIcon15 {
+  position: absolute;
+  width: 54px;
+  height: 50.45px;
+}
+.rectangleIcon15 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  object-fit: cover;
+}
+.groupDiv41 {
+  top: -134px;
+  left: 1115px;
+}
+.burnaBoy,
+.groupDiv42 {
+  position: absolute;
+  left: 1216px;
+}
+.burnaBoy {
+  top: 387px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.groupDiv42 {
+  top: 310px;
+  width: 71px;
+  height: 66.33px;
+}
+.falzB {
+  position: absolute;
+  top: 387px;
+  left: 1319px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+}
+.groupDiv43,
+.groupIcon4 {
+  position: absolute;
+  top: 310px;
+  left: 1314px;
+  width: 71px;
+  height: 66.33px;
+}
+.groupIcon4 {
+  top: 845px;
+  left: 1189px;
+  width: 124px;
+  height: 7px;
+}
+.rectangleIcon18 {
+  border-radius: var(--br-md);
+  object-fit: cover;
+}
+.groupDiv45,
+.rectangleIcon18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 268px;
+  height: 395px;
+}
+.groupDiv44,
+.rectangleDiv14 {
+  position: absolute;
+  width: 268px;
+  height: 398px;
+}
+.rectangleDiv14 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 247, 247, 0.39),
+    rgba(255, 255, 255, 0.1)
+  );
+  backdrop-filter: blur(28px);
+}
+.groupDiv44 {
+  top: 571px;
+  left: 1117px;
+}
+.groupDiv46,
+.rectangleIcon19 {
+  position: absolute;
+  width: 199px;
+  height: 123px;
+}
+.rectangleIcon19 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  object-fit: cover;
+}
+.groupDiv46 {
+  top: 655px;
+  left: 1151px;
+}
+.sexB2,
+.treyDiv2 {
+  display: inline-block;
+  color: var(--color-white);
+}
+.sexB2 {
+  position: absolute;
+  top: 807px;
+  left: 1238px;
+}
+.treyDiv2 {
+  top: 833px;
+  left: 1239px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+}
+.frameIcon9,
+.groupIcon5,
+.treyDiv2 {
+  position: absolute;
+}
+.groupIcon5 {
+  top: 867px;
+  left: 1189px;
+  width: 124px;
+  height: 7px;
+}
+.frameIcon9 {
+  top: 895px;
+  left: 1239px;
+  border-radius: var(--br-lg);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.div,
+.nowPlayingB {
+  position: absolute;
+  display: inline-block;
+  color: var(--color-white);
+}
+.nowPlayingB {
+  top: 608px;
+  left: 1204px;
+}
+.div {
+  top: 861px;
+  left: 1151px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+}
+.frameIcon10 {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  border-radius: var(--br-lg);
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.div1 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.groupDiv47,
+.groupDiv48 {
+  left: 926px;
+  width: 76px;
+  height: 28px;
+}
+.groupDiv47 {
+  position: absolute;
+  top: 760px;
+  font-size: var(--font-size-sm);
+}
+.groupDiv48 {
+  top: 827px;
+}
+.div4,
+.groupDiv48,
+.groupDiv49 {
+  position: absolute;
+  font-size: var(--font-size-sm);
+}
+.groupDiv49 {
+  top: 894px;
+  left: 926px;
+  width: 76px;
+  height: 28px;
+}
+.div4 {
+  top: 861px;
+  left: 1324px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+}
+.arrowRepeatAllNull,
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  top: 833px;
+  left: 1336px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.vectorIcon,
+.vectorIcon1 {
+  height: 1.51%;
+  width: 1.32%;
+  top: 87.79%;
+  right: 15.76%;
+  bottom: 10.69%;
+  left: 82.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 1.53%;
+  width: 1.33%;
+  top: 87.81%;
+  right: 9.15%;
+  bottom: 10.65%;
+  left: 89.52%;
+}
+.to33Users {
+  top: 29px;
+  left: 70px;
+  font-weight: 600;
+}
+.hoursDiv,
+.playlistSharedB,
+.to33Users {
+  position: absolute;
+  display: inline-block;
+}
+.hoursDiv {
+  top: 4px;
+  left: 232px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+}
+.playlistSharedB {
+  top: 2px;
+  left: 70px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+}
+.rectangleDiv15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  width: 54px;
+  height: 50.45px;
+}
+.iconlyBoldPaperPlus1 {
+  position: absolute;
+  height: 41.98%;
+  width: 33.33%;
+  top: 27.75%;
+  right: 33.33%;
+  bottom: 30.27%;
+  left: 33.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupDiv50,
+.groupDiv51 {
+  position: absolute;
+  height: 50.45px;
+}
+.groupDiv51 {
+  top: 0;
+  left: 0;
+  width: 54px;
+}
+.groupDiv50 {
+  top: 88px;
+  left: 1116px;
+  width: 273px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+}
+.minDiv {
+  position: absolute;
+  top: 4px;
+  left: 238px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  display: inline-block;
+}
+.groupDiv52 {
+  position: absolute;
+  top: 161px;
+  left: 1116px;
+  width: 273px;
+  height: 50.45px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+}
+.desktop1 {
+  position: absolute;
+  top: 232px;
+  left: 113px;
+  border-radius: 15px;
+  background-color: var(--color-white);
+  box-shadow: 20px 80px 120px rgba(0, 0, 0, 0.15);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.frameDiv {
+  position: relative;
+  background-color: #f2eff3;
+  width: 100%;
+  height: 1464px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-montserrat);
+}
